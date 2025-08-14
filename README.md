@@ -23,8 +23,8 @@
 <h2>📌 Selected Projects:</h2>
 <ul>
   <li><b><a href="https://richiedesigns.co.uk/" target="_blank">RichieDesigns</a></b> – Freelance front-end & back-end development, SEO, domain & database management</li>
-  <li><b><a href="https://actitude.com/"  target="_blank">Actitude Web Platform</b> – Full stack development with ReactJS & PHP, CI/CD automation, performance optimization</li>
-  <li><b><a href="https://fortiusclinic.com/"  target="_blank">Fortius Clinic Web Solutions</b> – Patient portal, scheduling tools, cloud-integrated systems for healthcare operations</li>
+  <li><b><a href="https://actitude.com/" target="_blank">Actitude Web Platform</b> – Full stack development with ReactJS & PHP, CI/CD automation, performance optimization</li>
+  <li><b><a href="https://fortiusclinic.com/" target="_blank">Fortius Clinic Web Solutions</b> – Patient portal, scheduling tools, cloud-integrated systems for healthcare operations</li>
 </ul>
 
 <h2>🎯 Career Highlights:</h2>
